@@ -19,7 +19,7 @@ export class ServersComponent implements OnInit {
   }
   onServerCreation(){
   
-     this.allowMsg="Hi";
+     this.allowMsg="hibegfjerghoiuregoiuh";
   }
   getServerName(evt:any){
   console.log(evt);
